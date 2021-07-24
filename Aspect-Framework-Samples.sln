@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectCoreApi", "AspectCoreApi\AspectCoreApi.csproj", "{E9D61237-E76A-428D-A04C-EE62A3922007}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectCoreApi", "src\AspectCoreApi\AspectCoreApi.csproj", "{E9D61237-E76A-428D-A04C-EE62A3922007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
